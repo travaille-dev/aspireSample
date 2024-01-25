@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34511.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sso-aspire-demo", "sso-aspire-demo\sso-aspire-demo\sso-aspire-demo.csproj", "{10421D0F-E578-40B0-AC13-2D8B3448FE3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sso-aspire-demo.Client", "sso-aspire-demo\sso-aspire-demo.Client\sso-aspire-demo.Client.csproj", "{B5CADA15-A6C6-4CE5-890B-AADAFB3E31B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sso-aspire-demo.AppHost", "sso-aspire-demo.AppHost\sso-aspire-demo.AppHost.csproj", "{07D5F076-74D1-432E-B6EE-EC0AF382B0D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sso-aspire-demo.ServiceDefaults", "sso-aspire-demo.ServiceDefaults\sso-aspire-demo.ServiceDefaults.csproj", "{8D55BC30-8CF8-4DB4-98CB-0DFF72ADA9EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIDemo", "APIDemo\APIDemo.csproj", "{45B95190-FD54-4016-8B4F-0A60A64E807F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnotherAPIDemo", "AnotherAPIDemo\AnotherAPIDemo.csproj", "{6AEE6447-8F96-43B4-8003-194E1F915A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10421D0F-E578-40B0-AC13-2D8B3448FE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10421D0F-E578-40B0-AC13-2D8B3448FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10421D0F-E578-40B0-AC13-2D8B3448FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10421D0F-E578-40B0-AC13-2D8B3448FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CADA15-A6C6-4CE5-890B-AADAFB3E31B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CADA15-A6C6-4CE5-890B-AADAFB3E31B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CADA15-A6C6-4CE5-890B-AADAFB3E31B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CADA15-A6C6-4CE5-890B-AADAFB3E31B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D5F076-74D1-432E-B6EE-EC0AF382B0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D5F076-74D1-432E-B6EE-EC0AF382B0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D5F076-74D1-432E-B6EE-EC0AF382B0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D5F076-74D1-432E-B6EE-EC0AF382B0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D55BC30-8CF8-4DB4-98CB-0DFF72ADA9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D55BC30-8CF8-4DB4-98CB-0DFF72ADA9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D55BC30-8CF8-4DB4-98CB-0DFF72ADA9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D55BC30-8CF8-4DB4-98CB-0DFF72ADA9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B95190-FD54-4016-8B4F-0A60A64E807F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B95190-FD54-4016-8B4F-0A60A64E807F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B95190-FD54-4016-8B4F-0A60A64E807F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B95190-FD54-4016-8B4F-0A60A64E807F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEE6447-8F96-43B4-8003-194E1F915A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEE6447-8F96-43B4-8003-194E1F915A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEE6447-8F96-43B4-8003-194E1F915A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEE6447-8F96-43B4-8003-194E1F915A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46AC7726-7448-479F-8500-0566E4750FC4}
+	EndGlobalSection
+EndGlobal
